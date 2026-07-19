@@ -2,7 +2,7 @@
 
 > An AI-powered service desk that routes employee questions to the right domain and grounds answers in company knowledge.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-REST%20API-009688?logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-REST%20API-009688?logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000) 
 
 ## Overview
 
